@@ -1,5 +1,5 @@
 import { createRoot } from 'react-dom/client';
-import AdminTable from './adminTable';
+import AdminTable from './AdminTable';
 import ProtectedRoute from './protectedRoute';
 import { BrowserRouter as Router ,Route,Routes } from 'react-router-dom';
 import Home from './home';
