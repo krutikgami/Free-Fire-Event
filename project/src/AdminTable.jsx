@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { QueryClient, QueryClientProvider } from 'react-query';
 import { Trophy } from 'lucide-react';
-import AdminLobbyTable from './components/adminLobbyTable';
+import AdminLobbyTable from './components/AdminLobbyTable'
 
 const queryClient = new QueryClient();
 
